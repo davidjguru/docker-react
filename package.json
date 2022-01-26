@@ -55,7 +55,7 @@
     "babel-loader": "8.2.3",
     "babel-plugin-i18next-extract": "0.8.3",
     "browser-metrics": "0.1.4",
-    "chai": "4.3.4",
+    "chai": "4.3.6",
     "chai-almost": "1.0.1",
     "connected-react-router": "6.9.2",
     "copy-to-clipboard": "3.3.1",
