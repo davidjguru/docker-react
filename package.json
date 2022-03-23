@@ -52,7 +52,7 @@
     "amplitude-js": "8.17.0",
     "autocomplete.js": "0.38.1",
     "babel-eslint": "10.1.0",
-    "babel-loader": "8.2.3",
+    "babel-loader": "8.2.4",
     "babel-plugin-i18next-extract": "0.8.3",
     "browser-metrics": "0.1.4",
     "chai": "4.3.6",
