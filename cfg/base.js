@@ -2,7 +2,7 @@
 // Use this file to edit settings that are the same for all environments (dev, test, prod).
 const imageMinJpg = require('imagemin-mozjpeg')
 const imageMinPng = require('imagemin-optipng')
-const imageMinSvg = require('imagemin-svgo')
+const imageMinSvg = import('imagemin-svgo')
 
 var path = require('path')
 var webpack = require('webpack')
